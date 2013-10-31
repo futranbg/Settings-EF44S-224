@@ -739,8 +739,8 @@ Lần thử còn lại:"</string>
     <string name="model_number">Số kiểu</string>
     <string name="fcc_equipment_id">Tên thiết bị</string>
     <string name="baseband_version">Phiên bản dải tần cơ sở</string>
-    <string name="kernel_version">Phiên bản cốt lõi</string>
-    <string name="build_number">Mod By Uông Hà Thái</string>
+    <string name="kernel_version">Phiên bản lõi</string>
+    <string name="build_number">Phiên bản dựng</string>
     <string name="device_info_not_available">Không khả dụng</string>
     <string name="device_status_activity_title">Trạng thái</string>
     <string name="device_status">Trạng thái</string>
@@ -2428,4 +2428,8 @@ Khả năng quản lý phụ thuộc phần mềm trên PC."</string>
     <string name="display_pointer">Con trỏ hiển thị</string>
     <string name="pointer_type">Con trỏ loại</string>
     <string name="external_input_size">Tắt màn hình nhập kích</string>
+	<string name="header_category_advanced">Cài đặt nâng cao</string>
+	<string name="performance_title">Hiệu năng</string>
+	<string name="theme_title">Cài đặt theme</string>
+	<string name="tek_about">Thông tin Tekrom</string>
 </resources>

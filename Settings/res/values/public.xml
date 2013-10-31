@@ -3614,6 +3614,9 @@
     <public type="string" name="svc_uuid_00001804" id="0x7f0b074a" />
     <public type="string" name="svc_uuid_00009000" id="0x7f0b074b" />
     <public type="string" name="svc_uuid_unknown" id="0x7f0b074c" />
+	<public type="string" name="performance_title" id="0x7f0b09d0" />
+	<public type="string" name="theme_title" id="0x7f0b09d1" />
+	<public type="string" name="tek_about" id="0x7f0b09d2" />
     <public type="integer" name="maximum_user_dictionary_word_length" id="0x7f0c0000" />
     <public type="dimen" name="device_memory_usage_button_width" id="0x7f0d0000" />
     <public type="dimen" name="device_memory_usage_button_height" id="0x7f0d0001" />

@@ -14,7 +14,15 @@
         <intent android:action="com.android.settings.OPERATOR_APPLICATION_SETTING" />
     </header>
     <header android:icon="@drawable/empty_icon" android:id="@id/wireless_settings" android:title="@string/radio_controls_title" android:fragment="com.android.settings.WirelessSettings" android:breadCrumbTitle="@string/wireless_networks_settings_title" />
-    <header android:title="@string/header_category_device" />
+	<header android:title="@string/header_category_advanced" />
+	<header android:icon="@drawable/ic_performance" android:title="@string/performance_title">
+       <intent android:targetPackage="com.bigeyes0x0.trickstermod" android:action="android.intent.action.MAIN" android:targetClass="com.bigeyes0x0.trickstermod.main.Activity-Nate" />
+    </header>
+	<header android:icon="@drawable/ic_theme" android:title="@string/theme_title">
+       <intent android:targetPackage="sg.ruqqq.XThemeEngine" android:action="android.intent.action.MAIN" android:targetClass="sg.ruqqq.XThemeEngine.ThemeChooserActivity" />
+    </header>
+	<header android:icon="@drawable/ic_phoneinfo" android:id="@id/about_settings" android:title="@string/tek_about" android:fragment="com.android.settings.DeviceInfoSettings" />
+	<header android:title="@string/header_category_device" />
     <header android:icon="@drawable/ic_settings_sim" android:id="@id/multi_sim_settings" android:title="@string/multi_sim_settings_title">
         <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.MultiSimSettings" />
     </header>
@@ -47,5 +55,4 @@
     <header android:icon="@drawable/ic_date" android:id="@id/date_time_settings" android:title="@string/date_and_time_settings_title" android:fragment="com.android.settings.DateTimeSettings" />
     <header android:icon="@drawable/ic_access" android:id="@id/accessibility_settings" android:title="@string/accessibility_settings" android:fragment="com.android.settings.AccessibilitySettings" />
     <header android:icon="@drawable/ic_developer" android:id="@id/development_settings" android:title="@string/development_settings_title" android:fragment="com.android.settings.DevelopmentSettings" />
-    <header android:icon="@drawable/ic_phoneinfo" android:id="@id/about_settings" android:title="@string/about_settings" android:fragment="com.android.settings.DeviceInfoSettings" />
 </preference-headers>
