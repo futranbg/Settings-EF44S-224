@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_access_items">
+        <item>询问</item>
+        <item>授权</item>
+        <item>拒绝</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>完整内容</item>
+        <item>仅权限申请</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>永久</item>
+        <item>两周</item>
+        <item>一周</item>
+        <item>三天</item>
+        <item>两天</item>
+        <item>一天</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>31/12 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31/12 11:59 下午</item>
+        <item>12/31 11:59 下午</item>
+    </string-array>
+    <string-array name="appdetail_access_items">
+        <item>询问</item>
+        <item>授权</item>
+        <item>拒绝</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>全局默认设置</item>
+        <item>完整内容</item>
+        <item>仅权限申请</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>全局默认设置</item>
+        <item>已启用</item>
+        <item>已禁用</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>无限期</item>
+        <item>1 分钟</item>
+        <item>5 分钟</item>
+        <item>15 分钟</item>
+        <item>30 分钟</item>
+        <item>1小时</item>
+        <item>3 小时</item>
+        <item>6 小时</item>
+        <item>12 小时</item>
+        <item>24 小时</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>询问</item>
+        <item>授权</item>
+        <item>授权+时间</item>
+        <item>拒绝</item>
+        <item>拒绝+时间</item>
+    </string-array>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_access_items">
+        <item>Advarsel</item>
+        <item>Tildel</item>
+        <item>Avvis</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>Fullt innhold</item>
+        <item>Kun tilgang</item>
+        <item>Ingen</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>Aldri</item>
+        <item>2 uker</item>
+        <item>1 uke</item>
+        <item>3 dager</item>
+        <item>2 dager</item>
+        <item>1 dag</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>31/12 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31/12 11:59 PM</item>
+        <item>12/31 11:59 PM</item>
+    </string-array>
+    <string-array name="appdetail_access_items">
+        <item>Advarsel</item>
+        <item>Tildel</item>
+        <item>Avvis</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>Generell standard</item>
+        <item>Fullt innhold</item>
+        <item>Kun tilgang</item>
+        <item>Ingen</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>Generell standard</item>
+        <item>Aktivert</item>
+        <item>Deaktivert</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>Uendelig</item>
+        <item>1 minutt</item>
+        <item>5 minutter</item>
+        <item>15 minutter</item>
+        <item>30 minutter</item>
+        <item>1 time</item>
+        <item>3 timer</item>
+        <item>6 timer</item>
+        <item>12 timer</item>
+        <item>24 timer</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>Advarsel</item>
+        <item>Tillat</item>
+        <item>Tildel+Tid</item>
+        <item>Avslå</item>
+        <item>Nekt+Tid</item>
+    </string-array>
+</resources>

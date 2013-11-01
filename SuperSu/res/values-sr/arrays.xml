@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_access_items">
+        <item>Upit</item>
+        <item>Dozvoli</item>
+        <item>Odbij</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>Ceo sadržaj</item>
+        <item>Samo pristup</item>
+        <item>Ništa</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>Nikad</item>
+        <item>2 nedelje</item>
+        <item>1 nedelja</item>
+        <item>3 dana</item>
+        <item>2 dana</item>
+        <item>1 dan</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>31/12 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31/12 11:59 popodne</item>
+        <item>12/31 11:59 popodne</item>
+    </string-array>
+    <string-array name="appdetail_access_items">
+        <item>Upit</item>
+        <item>Dozvoli</item>
+        <item>Odbij</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>Uglavnom podrazumevano</item>
+        <item>Ceo sadržaj</item>
+        <item>Samo pristup</item>
+        <item>Ništa</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>Uglavnom podrazumevano</item>
+        <item>Omogućeno</item>
+        <item>Onemogućeno</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>Neograničeno</item>
+        <item>1 minut</item>
+        <item>5 minuta</item>
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>1 sat</item>
+        <item>3 sata</item>
+        <item>6 sati</item>
+        <item>12 sati</item>
+        <item>24 sata</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>Upit</item>
+        <item>Dozvoli</item>
+        <item>Dozvoli+Vreme</item>
+        <item>Odbij</item>
+        <item>Odbij+Vreme</item>
+    </string-array>
+</resources>

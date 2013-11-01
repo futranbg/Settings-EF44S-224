@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_access_items">
+        <item>Попитай</item>
+        <item>Разреши</item>
+        <item>Откажи</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>Пълни данни</item>
+        <item>Само достъп</item>
+        <item>Нищо</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>Никога</item>
+        <item>2 седмици</item>
+        <item>1 седмица</item>
+        <item>3 дни</item>
+        <item>2 дни</item>
+        <item>1 ден</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>31/12 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31/12 11:59 PM</item>
+        <item>12/31 11:59 PM</item>
+    </string-array>
+    <string-array name="appdetail_access_items">
+        <item>Prompt</item>
+        <item>Разреши</item>
+        <item>Откажи</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>Global default</item>
+        <item>Full content</item>
+        <item>Access only</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>Global default</item>
+        <item>Включен</item>
+        <item>Изключен</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>Indefinitely</item>
+        <item>1 минута</item>
+        <item>5 минути</item>
+        <item>15 минути</item>
+        <item>30 минути</item>
+        <item>1 час</item>
+        <item>3 часа</item>
+        <item>6 часа</item>
+        <item>12 часа</item>
+        <item>24 часа</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>Попитай</item>
+        <item>Разреши</item>
+        <item>Grant+Time</item>
+        <item>Откажи</item>
+        <item>Deny+Time</item>
+    </string-array>
+</resources>

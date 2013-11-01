@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_access_items">
+        <item>კარნახი</item>
+        <item>მინიჭება</item>
+        <item>უარყოფა</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>სრული შინაარსი</item>
+        <item>მხოლოდ წვდომა</item>
+        <item>არაფერი</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>არასოდეს</item>
+        <item>ორი კვირა</item>
+        <item>ერთი კვირა</item>
+        <item>სამი დღე</item>
+        <item>ორი დღე</item>
+        <item>ერთი დღე</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>31/12 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31/12 11:59 PM</item>
+        <item>12/31 11:59 PM</item>
+    </string-array>
+    <string-array name="appdetail_access_items">
+        <item>შეთავაზება</item>
+        <item>ნების დართვა</item>
+        <item>უარყოფა</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>გლობალურად ნაგულისხმევი პარამეტრი</item>
+        <item>სრული შემადგენლობა</item>
+        <item>მხოლოდ წვდომა</item>
+        <item>არცერთი</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>გლობალურად ნაგულისხმევი პარამეტრი</item>
+        <item>ჩართულია</item>
+        <item>გამორთულია</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>განუსაზღვრელი</item>
+        <item>1 წუთი</item>
+        <item>5 წუთი</item>
+        <item>15 წუთი</item>
+        <item>30 წუთი</item>
+        <item>1 საათი</item>
+        <item>3 საათი</item>
+        <item>6 საათი</item>
+        <item>12 საათი</item>
+        <item>24 საათი</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>კარნახი</item>
+        <item>ნების დართვა</item>
+        <item>მინიჭება+დრო</item>
+        <item>უარყოფა</item>
+        <item>უარყოფა+დრო</item>
+    </string-array>
+</resources>

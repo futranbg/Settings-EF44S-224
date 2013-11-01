@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_access_items">
+        <item>Chiedi</item>
+        <item>Concedi</item>
+        <item>Nega</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>Contenuto totale</item>
+        <item>Solo accesso</item>
+        <item>Nessuno</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>Mai</item>
+        <item>2 settimane</item>
+        <item>1 settimana</item>
+        <item>3 giorni</item>
+        <item>2 giorni</item>
+        <item>1 giorno</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>31/12 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31/12 11:59 PM</item>
+        <item>12/31 11:59 PM</item>
+    </string-array>
+    <string-array name="appdetail_access_items">
+        <item>Chiedi</item>
+        <item>Concedi</item>
+        <item>Nega</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>Ripristino di tutte le impostazioni</item>
+        <item>Contenuto totale</item>
+        <item>Solo accesso</item>
+        <item>Nessuno</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>Default globale</item>
+        <item>Abilitato</item>
+        <item>Disabilitato</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>Indefinito</item>
+        <item>1 minuto</item>
+        <item>5 minuti</item>
+        <item>15 minuti</item>
+        <item>30 minuti</item>
+        <item>1 ora</item>
+        <item>3 ore</item>
+        <item>6 ore</item>
+        <item>12 ore</item>
+        <item>24 ore</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>Chiedi</item>
+        <item>Concedi</item>
+        <item>Concedi+Tempo</item>
+        <item>Nega</item>
+        <item>Nega+Tempo</item>
+    </string-array>
+</resources>

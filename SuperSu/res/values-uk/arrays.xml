@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_access_items">
+        <item>Запит</item>
+        <item>Дозволити</item>
+        <item>Заборонити</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>Всі дії</item>
+        <item>Тільки доступ</item>
+        <item>Пусто</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>Ніколи</item>
+        <item>2 тижні</item>
+        <item>1 тиждень</item>
+        <item>3 дні</item>
+        <item>2 дні</item>
+        <item>1 день</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>31/12 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31/12 11:59 PM</item>
+        <item>12/31 11:59 PM</item>
+    </string-array>
+    <string-array name="appdetail_access_items">
+        <item>Запит</item>
+        <item>Дозволити</item>
+        <item>Заборонити</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>Глобальне типове значення</item>
+        <item>Всі дії</item>
+        <item>Тільки доступ</item>
+        <item>Пусто</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>Глобальне типове значення</item>
+        <item>Увімкнено</item>
+        <item>Вимкнено</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>Невизначено</item>
+        <item>1 хвилина</item>
+        <item>5 хвилин</item>
+        <item>15 хвилин</item>
+        <item>30 хвилин</item>
+        <item>1 година</item>
+        <item>3 години</item>
+        <item>6 годин</item>
+        <item>12 годин</item>
+        <item>24 години</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>Запит</item>
+        <item>Надати</item>
+        <item>Права + Час</item>
+        <item>Відмовити</item>
+        <item>Заборона + Час</item>
+    </string-array>
+</resources>

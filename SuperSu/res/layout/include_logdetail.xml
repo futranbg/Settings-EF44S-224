@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center_vertical" android:id="@id/logdetail_caption" android:layout_width="fill_parent" android:layout_height="24.0dip" android:layout_weight="0.0" android:inputType="textNoSuggestions" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0px" android:layout_weight="1.0">
+        <TextView android:textSize="10.0sp" android:typeface="monospace" android:id="@id/logdetail_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" />
+    </ScrollView>
+</merge>

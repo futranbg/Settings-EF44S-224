@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/progressContainer" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:attr/progressBarStyleLarge" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/listContainer" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <ListView android:id="@*android:id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:drawSelectorOnTop="false" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="center" android:id="@id/internalEmpty" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+        <FrameLayout android:orientation="horizontal" android:id="@id/detailContainer" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <View android:layout_gravity="top|left|center" android:background="@color/holo_blue_light" android:layout_width="3.0dip" android:layout_height="fill_parent" />
+            <View android:layout_gravity="top|left|center" android:background="@color/holo_blue_light" android:layout_width="48.0dip" android:layout_height="3.0dip" />
+            <View android:layout_gravity="bottom|left|center" android:background="@color/holo_blue_light" android:layout_width="48.0dip" android:layout_height="3.0dip" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="24.0dip" android:layout_marginTop="15.0dip" android:layout_marginRight="12.0dip" android:layout_marginBottom="18.0dip">
+                <include layout="@layout/include_logdetail" />
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_marginTop="12.0dip" android:layout_weight="0.0">
+                    <Button android:id="@id/logdetail_prev" android:layout_width="0.0dip" android:layout_height="48.0dip" android:text="&lt;" android:layout_weight="1.0" />
+                    <Button android:id="@id/logdetail_next" android:layout_width="0.0dip" android:layout_height="48.0dip" android:text=">" android:layout_weight="1.0" />
+                </LinearLayout>
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+</FrameLayout>

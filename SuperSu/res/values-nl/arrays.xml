@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_access_items">
+        <item>Vragen</item>
+        <item>Toestaan</item>
+        <item>Weigeren</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>Volledige inhoud</item>
+        <item>Alleen toegang</item>
+        <item>Geen</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>Nooit</item>
+        <item>2 weken</item>
+        <item>1 week</item>
+        <item>3 dagen</item>
+        <item>2 dagen</item>
+        <item>1 dag</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>31/12 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31/12 11:59 PM</item>
+        <item>12/31 11:59 PM</item>
+    </string-array>
+    <string-array name="appdetail_access_items">
+        <item>Vragen</item>
+        <item>Toestaan</item>
+        <item>Weigeren</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>Globale standaard</item>
+        <item>Volledige inhoud</item>
+        <item>Alleen toegang</item>
+        <item>Geen</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>Globale standaard</item>
+        <item>Ingeschakeld</item>
+        <item>Uitgeschakeld</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>Oneindig</item>
+        <item>1 minuut</item>
+        <item>5 minuten</item>
+        <item>15 minuten</item>
+        <item>30 minuten</item>
+        <item>1 uur</item>
+        <item>3 uur</item>
+        <item>6 uur</item>
+        <item>12 uur</item>
+        <item>24 uur</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>Vragen</item>
+        <item>Toestaan</item>
+        <item>Toestaan+Tijd</item>
+        <item>Weigeren</item>
+        <item>Weigeren+Tijd</item>
+    </string-array>
+</resources>

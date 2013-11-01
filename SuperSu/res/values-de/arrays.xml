@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_access_items">
+        <item>Eingabe</item>
+        <item>Zulassen</item>
+        <item>Verweigern</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>Vollständiger Inhalt</item>
+        <item>Nur Zugriff</item>
+        <item>Keine</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>Nie</item>
+        <item>2 Wochen</item>
+        <item>1 Woche</item>
+        <item>3 Tage</item>
+        <item>2 Tage</item>
+        <item>1 Tag</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>31.12. 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31.12. 11:59 PM</item>
+        <item>12/31 11:59 PM</item>
+    </string-array>
+    <string-array name="appdetail_access_items">
+        <item>Eingabe</item>
+        <item>Zulassen</item>
+        <item>Verweigern</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>Globale Vorgabe</item>
+        <item>Vollständiger Inhalt</item>
+        <item>Nur Zugriff</item>
+        <item>Keine</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>Globale Vorgabe</item>
+        <item>Aktiviert</item>
+        <item>Deaktiviert</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>Unendlich</item>
+        <item>1 Minute</item>
+        <item>5 Minuten</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
+        <item>3 Stunden</item>
+        <item>6 Stunden</item>
+        <item>12 Stunden</item>
+        <item>24 Stunden</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>Eingabe</item>
+        <item>Erlauben</item>
+        <item>Erlauben + Zeit</item>
+        <item>Verweigern</item>
+        <item>Verweigern + Zeit</item>
+    </string-array>
+</resources>

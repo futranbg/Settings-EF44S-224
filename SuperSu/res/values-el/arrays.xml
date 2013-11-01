@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_access_items">
+        <item>Προέτρεψε</item>
+        <item>Χορήγησε</item>
+        <item>Απέκλεισε</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>Πλήρες περιεχόμενο</item>
+        <item>Πρόσβαση μόνο</item>
+        <item>Κανένα</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>Ποτέ</item>
+        <item>2 εβδομάδες</item>
+        <item>1 εβδομάδα</item>
+        <item>3 ημέρες</item>
+        <item>2 ημέρες</item>
+        <item>1 ημέρα</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>312 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31/12 11:59 PM</item>
+        <item>12/31 11:59 PM</item>
+    </string-array>
+    <string-array name="appdetail_access_items">
+        <item>Προέτρεψε</item>
+        <item>Χορήγησε</item>
+        <item>Απέκλεισε</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>Καθολική προεπιλογή</item>
+        <item>Πλήρες περιεχόμενο</item>
+        <item>Πρόσβαση μόνο</item>
+        <item>Κανένα</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>Καθολική προεπιλογή</item>
+        <item>Ενεργό</item>
+        <item>Ανενεργό</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>"Επ' αορίστου"</item>
+        <item>1 λεπτό</item>
+        <item>5 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>3 ώρες</item>
+        <item>6 ώρες</item>
+        <item>12 ώρες</item>
+        <item>24 ώρες</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>Προέτρεψε</item>
+        <item>Χορήγησε</item>
+        <item>Χορήγησε+Ώρα</item>
+        <item>Απόκλεισε</item>
+        <item>Απέρριψε+Ώρα</item>
+    </string-array>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_access_items">
+        <item>Prompt</item>
+        <item>Dovoli</item>
+        <item>Zavrni</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>Polno beleženje</item>
+        <item>Samo dostop</item>
+        <item>Nič</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>Nikoli</item>
+        <item>2 tedna</item>
+        <item>1 teden</item>
+        <item>3 dni</item>
+        <item>2 dni</item>
+        <item>En dan</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>31/12 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31/12 11:59 PM</item>
+        <item>12/31 11:59 PM</item>
+    </string-array>
+    <string-array name="appdetail_access_items">
+        <item>Prompt</item>
+        <item>Dovoli</item>
+        <item>Zavrni</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>Global default</item>
+        <item>Polno beleženje</item>
+        <item>Samo dostop</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>Global default</item>
+        <item>Omogočeno</item>
+        <item>Onemogočeno</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>Indefinitely</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>12 hours</item>
+        <item>24 hours</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>Prompt</item>
+        <item>Dovoli</item>
+        <item>Grant+Time</item>
+        <item>Zavrni</item>
+        <item>Deny+Time</item>
+    </string-array>
+</resources>

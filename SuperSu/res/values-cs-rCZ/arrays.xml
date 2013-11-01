@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_access_items">
+        <item>Zeptat se</item>
+        <item>Povolit</item>
+        <item>Zamítnout</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>Celý obsah</item>
+        <item>Pouze přístup</item>
+        <item>Žádný</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>Nikdy</item>
+        <item>2 týdny</item>
+        <item>1 týden</item>
+        <item>3 dny</item>
+        <item>2 dny</item>
+        <item>1 den</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>31/12 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31/12 11:59 odp.</item>
+        <item>12/31 11:59 odp.</item>
+    </string-array>
+    <string-array name="appdetail_access_items">
+        <item>Dotaz</item>
+        <item>Povolit</item>
+        <item>Zamítnout</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>Globální výchozí</item>
+        <item>Celý obsah</item>
+        <item>Pouze přístup</item>
+        <item>Žádný</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>Globální výchozí</item>
+        <item>Povolit</item>
+        <item>Zakázat</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>Natrvalo</item>
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 hodina</item>
+        <item>3 hodiny</item>
+        <item>6 hodin</item>
+        <item>12 hodin</item>
+        <item>24 hodin</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>Dotaz</item>
+        <item>Povolit</item>
+        <item>Povolit+Čas</item>
+        <item>Zamítnout</item>
+        <item>Zakázat+Čas</item>
+    </string-array>
+</resources>
