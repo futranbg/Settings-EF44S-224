@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_pressed">#ff33b5e5</color>
+    <color name="btn_focused">#ff0099cc</color>
+    <color name="btn_normal">#00000000</color>
+    <color name="popup_bg_color">#ee666666</color>
+    <color name="separator_color">#ffbbbbbb</color>
+    <color name="popup_text_color">#ffffffff</color>
+    <color name="lighter_gray">#ffeeeeee</color>
+    <color name="lime">#ff96aa39</color>
+    <color name="mojo">#ffc84741</color>
+    <color name="san_marino">#ff5062b6</color>
+</resources>

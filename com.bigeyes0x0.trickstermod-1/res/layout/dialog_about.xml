@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="?color_holo" android:gravity="center_vertical" android:id="@id/textTitle" android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <include layout="@layout/view_separator" />
+    <TextView android:paddingTop="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/credits" />
+</LinearLayout>

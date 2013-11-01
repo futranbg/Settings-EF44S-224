@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@*android:drawable/ic_menu_search" android:id="@id/menuSysctlSearch" android:showAsAction="always" android:actionViewClass="android.widget.SearchView" />
+    <item android:icon="@drawable/ic_edit" android:id="@id/menuSysCtlEdit" android:title="@string/sysctl_editor_edit" android:showAsAction="always" />
+</menu>

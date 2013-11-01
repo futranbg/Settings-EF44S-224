@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_gravity="end" android:id="@id/right_drawer" android:background="?color_drawer" android:layout_width="240.0dip" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="right" android:orientation="vertical" android:paddingLeft="16.0dip" android:paddingTop="4.0dip" android:paddingRight="16.0dip" android:paddingBottom="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pref_sob" style="@style/SectionHeader" />
+        <include layout="@layout/view_separator" />
+        <CheckBox android:textColor="?color_drawer_text" android:id="@id/pref_sob_kernel_settings" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/pref_sob_kernel_settings" style="@android:style/TextAppearance.Medium" />
+        <CheckBox android:textColor="?color_drawer_text" android:id="@id/pref_sob_hostname" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/device_hostname" style="@android:style/TextAppearance.Medium" />
+        <CheckBox android:textColor="?color_drawer_text" android:id="@id/pref_sob_sysctl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/sysctl_editor" style="@android:style/TextAppearance.Medium" />
+        <CheckBox android:textColor="?color_drawer_text" android:id="@id/pref_sob_notification" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/pref_sob_notification" style="@android:style/TextAppearance.Medium" />
+        <Button android:textColor="?color_drawer_text" android:gravity="left|center" android:id="@id/pref_sob_delay" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pref_sob_delay" style="@android:style/TextAppearance.Medium" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pref_agp" style="@style/SectionHeader" />
+        <include layout="@layout/view_separator" />
+        <Button android:textColor="?color_drawer_text" android:gravity="left|center" android:id="@id/pref_agp_duration" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pref_agp_duration" style="@android:style/TextAppearance.Medium" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pref_display" style="@style/SectionHeader" />
+        <include layout="@layout/view_separator" />
+        <Switch android:textAppearance="?android:textAppearanceMedium" android:textColor="?color_drawer_text" android:gravity="left|center" android:id="@id/pref_temp_unit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textOn="@string/unit_f" android:textOff="@string/unit_c" android:text="@string/pref_temp_unit" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pref_icon" style="@style/SectionHeader" />
+        <include layout="@layout/view_separator" />
+        <Button android:textColor="?color_drawer_text" android:gravity="left|center" android:id="@id/pref_icon" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pref_icon" style="@android:style/TextAppearance.Medium" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pref_language" style="@style/SectionHeader" />
+        <include layout="@layout/view_separator" />
+        <Button android:textColor="?color_drawer_text" android:gravity="left|center" android:id="@id/pref_language" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pref_language" style="@android:style/TextAppearance.Medium" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pref_theme" style="@style/SectionHeader" />
+        <include layout="@layout/view_separator" />
+        <Button android:textColor="?color_drawer_text" android:gravity="left|center" android:id="@id/pref_theme" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pref_theme" style="@android:style/TextAppearance.Medium" />
+    </LinearLayout>
+</ScrollView>

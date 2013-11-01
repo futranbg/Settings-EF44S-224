@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_select_all" android:id="@id/menuSysCtlSelectAll" android:title="@string/clear" android:showAsAction="always" />
+    <item android:icon="@drawable/ic_discard" android:id="@id/menuSysCtlClear" android:title="@string/clear" android:showAsAction="always" />
+</menu>

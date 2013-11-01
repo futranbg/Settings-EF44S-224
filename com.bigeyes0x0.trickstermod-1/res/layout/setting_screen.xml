@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center" android:id="@id/textName" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/textViewTip" android:layout="@layout/view_tip" android:inflatedId="@id/textViewTip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</merge>

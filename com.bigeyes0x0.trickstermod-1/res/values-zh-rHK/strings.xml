@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="credits">"特別感謝： 
+- 各位偉大的kernel開發者 
+- 各位捐贈者，尤其是diggmc@xda 
+- stericson提供busybox和RootTools 
+- grilledbacon製作的圖示 
+- 各位beta測試者在測試工作上的貢獻"</string>
+    <string name="cancel">取消</string>
+    <string name="ok">確定</string>
+    <string name="apply">套用</string>
+    <string name="set">設置</string>
+    <string name="send">傳送</string>
+    <string name="donate">更多信息</string>
+    <string name="pref_sob">啟動時自動應用</string>
+    <string name="pref_sob_notification">通知</string>
+    <string name="pref_sob_delay">延遲</string>
+    <string name="pref_icon">圖示</string>
+    <string name="pref_language">語言</string>
+    <string name="pref_theme">主題</string>
+    <string name="pref_disabled_item">啟用</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_bug_report">漏洞匯報</string>
+    <string name="menu_about">關於</string>
+    <string name="menu_websites">說明</string>
+    <string name="menu_homepage">首頁</string>
+    <string name="menu_user_community">用家社群</string>
+    <string name="menu_translate">幫助我們翻譯</string>
+    <string name="set_on_boot_completed">已設置為啟動時自動應用</string>
+    <string name="set_on_boot_error">無法設置為啟動時自動應用</string>
+    <string name="bug_report_log_file_creation_error">記錄文件創建失敗：SD Card未掛載</string>
+    <string name="message_install_root_error">Trickster MOD app 需要先獲得root存取權</string>
+    <string name="message_select_email_client">選擇E-mail客戶端</string>
+    <string name="message_update_donate_key">請更新Donate key至最新版本</string>
+    <string name="message_license_androidpit">請在App Centre登入你的AndroidPIT帳號以驗證你的捐贈</string>
+    <string name="message_license_error">無法連接認證伺服器：未連接網絡或伺服器維護中，請連接網絡或重啟程式。</string>
+    <string name="workinprogress_feature">此為測試功能，請購買donate key以啟用。</string>
+    <string name="settings_apply_sucessfully">套用成功</string>
+    <string name="device_status">設備狀態</string>
+    <string name="corex">核心%1$d : %2$s%3$s</string>
+    <string name="cpu_usage">CPU用量 : %1$d%%</string>
+    <string name="mem_stats">記憶體用量 : %1$s / %2$sMB</string>
+    <string name="offline">離線</string>
+    <string name="battery_temp">電池溫度 : %1$s%3$s -　健康度 : %2$s</string>
+    <string name="battery_status">;未知;良好;過熱;Dead;未知的錯誤;低溫</string>
+    <string name="cpu_temp">CPU溫度 : %1$s%2$s</string>
+    <string name="core_vol">核心 : %1$dmV</string>
+    <string name="cpu_stats">CPU統計</string>
+    <string name="cpu_stats_na_kernel">你的kernel不支援該信息</string>
+    <string name="backup_restore_kernel">Kernel備份／回復</string>
+    <string name="wifi_required">此功能需要可用的Wi-Fi連接</string>
+    <string name="keep_screen_on_when_active">顯示器長亮</string>
+    <string name="bootloader_lock_state">Bootloader鎖狀態</string>
+    <string name="bootloader_lock_tip">利用這個選項在未經使用fastbot或刪除資料的情況下將bootloader解鎖或上鎖。</string>
+    <string name="profile_none">（未命名）</string>
+    <string name="profile_name_empty">Profile名稱不能為空</string>
+    <string name="new_profile">新增profile</string>
+    <string name="delete">刪除</string>
+    <string name="save">儲存</string>
+    <string name="delete_selected_profile">確定刪除所選的profile？</string>
+    <string name="restore">回復</string>
+    <string name="backup">備份</string>
+    <string name="location">位置</string>
+    <string name="backup_kernel_dir_create_error">無效的kernel備份路徑，SDCard錯誤或輸入的路徑無效</string>
+    <string name="no_backup_kernel_found">找不到kernel備份</string>
+    <string name="backup_kernel_filename_empty_error">備份名稱不能為空</string>
+    <string name="backup_successfully">備份成功</string>
+    <string name="restore_successfully">回復成功，重新啟動以生效</string>
+    <string name="delete_successfully">刪除成功</string>
+    <string name="delete_kernel_file_error">刪除失敗：文件系統問題</string>
+    <string name="unable_to_find_kernel_file">找不到kernel文件</string>
+    <string name="backup_restore_kernel_tip">"- HTC設備需要S-OFF以使用kernel備份 
+- 請勿使用其他程式回復此程式的備份，否則這可能損壞你的設備"</string>
+    <string name="restore_kernel_warning">你確定你的設備是&lt;b>%1$s&lt;/b>嗎？否則這可能&lt;b>損壞&lt;/b>你的設備！</string>
+    <string name="backing_up_kernel">正在備份kernel…</string>
+    <string name="restoring_kernel">正在回復kernel…</string>
+    <string name="backup_kernel_filename_invalid_error">錯誤：kernel備份名稱無效，請輸入一個有效的名稱</string>
+    <string name="device_hostname">設備主機名稱</string>
+    <string name="error_hostname_cannot_be_empty">錯誤：主機名稱不能為空</string>
+    <string name="hostname_set_successfully">主機名稱設置成功</string>
+    <string name="hostname_set_failed">主機名稱設置失敗</string>
+    <string name="n4_color_setter_title">載入原廠gamma設定</string>
+    <string name="delay_seconds">延遲（秒）</string>
+    <string name="media_scanner">媒體掃描</string>
+    <string name="media_scanner_running">正在進行媒體掃描…</string>
+    <string name="media_scanner_already_running">媒體掃描正在進行中，請稍後重試。</string>
+    <string name="shortcut_kernel_not_support">你的kernel不支援此選項</string>
+    <string name="on">開</string>
+    <string name="off">關</string>
+    <string name="INFOS_TAB_LAB">信息</string>
+    <string name="TOOLS_TAB_LAB">工具</string>
+    <string name="KERNGEN_TAB_LAB">常規</string>
+    <string name="FREQ_LOCK_LAB">鎖定頻率</string>
+    <string name="MIN_FREQ_LAB">最高</string>
+    <string name="MAX_FREQ_LAB">最低</string>
+    <string name="SO_MAX_FREQ_LAB">最高(顯示器關閉時)</string>
+    <string name="SO_MIN_FREQ_LAB">最高(顯示器開啟時)</string>
+    <string name="KERNSPE_TAB_TIP">此頁的設定取決於kernel的功能</string>
+</resources>

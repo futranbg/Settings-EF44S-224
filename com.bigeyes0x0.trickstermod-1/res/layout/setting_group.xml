@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/layoutHeader" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ViewStub android:id="@id/textName" android:layout="@layout/view_group_label" android:inflatedId="@id/textName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/btnEdit" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+        <ImageButton android:id="@id/btnEdit" android:visibility="gone" android:layout_width="70.0dip" android:layout_height="26.0sp" android:src="@drawable/ic_minusplus" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" style="?android:attr/buttonBarButtonStyle" />
+    </RelativeLayout>
+    <ViewStub android:id="@id/separator" android:layout="@layout/view_separator" android:inflatedId="@id/separator" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <ViewStub android:id="@id/textViewTip" android:layout="@layout/view_tip" android:inflatedId="@id/textViewTip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</merge>

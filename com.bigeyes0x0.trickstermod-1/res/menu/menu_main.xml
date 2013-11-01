@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_settings" android:id="@id/menuSettings" android:orderInCategory="1" android:title="@string/menu_settings" android:showAsAction="always" />
+    <item android:id="@id/menuBugReport" android:title="@string/menu_bug_report" />
+    <item android:id="@id/menuDonate" android:title="@string/menu_donate" />
+    <item android:id="@id/menuWebsites" android:title="@string/menu_websites">
+        <menu>
+            <item android:id="@id/menuHomepage" android:title="@string/menu_homepage" />
+            <item android:id="@id/menuChanglog" android:title="@string/menu_changelog" />
+            <item android:id="@id/menuCommunity" android:title="@string/menu_user_community" />
+            <item android:id="@id/menuFAQ" android:title="@string/faq" />
+            <item android:id="@id/menuTranslate" android:title="@string/menu_translate" />
+        </menu>
+    </item>
+    <item android:id="@id/menuAbout" android:title="@string/menu_about" />
+</menu>

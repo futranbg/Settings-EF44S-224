@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: com.bigeyes0x0.trickstermod-1.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '18'
+packageInfo:
+  cur_package: com.bigeyes0x0.trickstermod
+  orig_package: com.bigeyes0x0.trickstermod
+compressionType: false
