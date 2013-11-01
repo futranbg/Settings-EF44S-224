@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="theme_spinner">false</item>
+    <item type="id" name="apply_theme">false</item>
+    <item type="id" name="soft_reboot">false</item>
+    <item type="id" name="reboot">false</item>
+</resources>

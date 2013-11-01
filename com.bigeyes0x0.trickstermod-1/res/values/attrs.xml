@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <attr name="ic_refresh" format="reference" />
-    <attr name="color_drawer" format="reference|color" />
-    <attr name="color_drawer_text" format="reference|color" />
-    <attr name="color_holo" format="reference|color" />
-    <attr name="progress_drawable" format="reference" />
-    <attr name="indeterminate_drawable" format="reference" />
-</resources>

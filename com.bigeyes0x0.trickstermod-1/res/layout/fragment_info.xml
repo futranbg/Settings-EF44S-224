@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <LinearLayout android:orientation="vertical" android:paddingLeft="?android:listPreferredItemPaddingLeft" android:paddingRight="?android:listPreferredItemPaddingRight" android:layout_width="fill_parent" android:layout_height="wrap_content">
-        <TextView android:id="@id/textDeviceInfo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" />
-        <com.bigeyes0x0.trickstermod.tool.CpuStats android:layout_width="fill_parent" android:layout_height="wrap_content" />
-        <com.bigeyes0x0.trickstermod.tool.DeviceStatus android:layout_width="fill_parent" android:layout_height="wrap_content" />
-    </LinearLayout>
-</ScrollView>

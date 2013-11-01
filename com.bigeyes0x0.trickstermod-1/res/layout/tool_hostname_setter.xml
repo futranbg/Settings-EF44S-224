@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merge
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:text="@string/device_hostname" style="@style/GroupLabel" />
-    <include layout="@layout/view_separator" />
-    <TextView android:textStyle="italic" android:padding="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/device_hostname_tip" />
-    <EditText android:ellipsize="end" android:gravity="right" android:layout_gravity="right" android:id="@id/textValue" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:inputType="textNoSuggestions" />
-</merge>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merge
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ViewStub android:layout_gravity="center_horizontal" android:id="@id/color_palette" android:layout="@layout/view_color_palette" android:inflatedId="@id/color_palette" android:layout_width="fill_parent" android:layout_height="wrap_content" />
-    <ViewStub android:layout_gravity="center_horizontal" android:id="@id/color_greyscale" android:layout="@layout/view_color_greyscale" android:inflatedId="@id/color_greyscale" android:layout_width="fill_parent" android:layout_height="wrap_content" />
-    <ViewStub android:layout_gravity="center_horizontal" android:id="@id/color_rainbow" android:layout="@layout/view_color_rainbow" android:inflatedId="@id/color_rainbow" android:layout_width="fill_parent" android:layout_height="wrap_content" />
-</merge>
