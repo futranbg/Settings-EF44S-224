@@ -17,36 +17,6 @@
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
-        <activity-alias android:label="@string/app_name" android:icon="@drawable/ic_launcher_emblem" android:name=".MainActivity-Emblem" android:enabled="true" android:targetActivity=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity-alias>
-        <activity-alias android:label="@string/app_name" android:icon="@drawable/ic_launcher_superandy" android:name=".MainActivity-SuperAndy" android:enabled="false" android:targetActivity=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity-alias>
-        <activity-alias android:label="@string/app_name" android:icon="@drawable/ic_launcher_original" android:name=".MainActivity-Original" android:enabled="false" android:targetActivity=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity-alias>
-        <activity-alias android:label="@string/app_name" android:icon="@drawable/ic_launcher_chip" android:name=".MainActivity-Chip" android:enabled="false" android:targetActivity=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity-alias>
-        <activity-alias android:label="@string/app_name" android:icon="@drawable/ic_launcher_supersu" android:name=".MainActivity-SuperSU" android:enabled="false" android:targetActivity=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity-alias>
         <activity android:theme="@style/Theme.Chainfire.Sherlock.Dialog" android:label="@string/app_name" android:name=".AppDetailActivity" android:exported="false" android:excludeFromRecents="true" android:configChanges="locale" android:hardwareAccelerated="true" />
         <activity android:theme="@style/Theme.Chainfire.Sherlock.Dialog" android:label="@string/app_name" android:name=".LogDetailActivity" android:exported="false" android:excludeFromRecents="true" android:configChanges="locale" android:noHistory="true" android:hardwareAccelerated="true" />
         <activity android:theme="@style/Theme.Chainfire.Sherlock.Dialog" android:label="@string/app_name" android:name=".PINActivity" android:exported="false" android:excludeFromRecents="true" android:configChanges="locale" android:noHistory="true" android:hardwareAccelerated="true" />
