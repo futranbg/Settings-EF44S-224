@@ -16,7 +16,7 @@
     <header android:icon="@drawable/empty_icon" android:id="@id/wireless_settings" android:title="@string/radio_controls_title" android:fragment="com.android.settings.WirelessSettings" android:breadCrumbTitle="@string/wireless_networks_settings_title" />
 	<header android:title="@string/header_category_advanced" />
 	<header android:icon="@drawable/ic_performance" android:title="@string/performance_title">
-       <intent android:targetPackage="com.bigeyes0x0.trickstermod" android:action="android.intent.action.MAIN" android:targetClass="com.bigeyes0x0.trickstermod.main.Activity-Nate" />
+       <intent android:targetPackage="com.bigeyes0x0.trickstermod" android:action="android.intent.action.MAIN" android:targetClass="com.bigeyes0x0.trickstermod.main.ActivityTricksterMod" />
     </header>
 	<header android:icon="@drawable/ic_theme" android:title="@string/theme_title">
        <intent android:targetPackage="sg.ruqqq.XThemeEngine" android:action="android.intent.action.MAIN" android:targetClass="sg.ruqqq.XThemeEngine.ThemeChooserActivity" />
