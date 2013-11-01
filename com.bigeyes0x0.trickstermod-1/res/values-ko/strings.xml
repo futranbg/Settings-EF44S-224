@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="app_name">Performance Control</string>
     <string name="credits">"이 분들께 감사드립니다. 
 - 커널 개발자 분들 
 - 기부자 분들, 특히 diggmc@xda님 
@@ -40,7 +41,7 @@
     <string name="bug_report">보고</string>
     <string name="bug_report_log_file_creation_error">로그 파일 만들기 실패: SD카드가 없거나 오류 발생</string>
     <string name="message_config_na">이 컨트롤은 사용할 수 없습니다.</string>
-    <string name="message_install_root_error">Trickster MOD 를 사용하려면 루트 권한이 필요합니다.</string>
+    <string name="message_install_root_error">Performance Control 를 사용하려면 루트 권한이 필요합니다.</string>
     <string name="message_select_email_client">메일 계정 선택</string>
     <string name="message_install_androidpit">추가 기능잠금 해제를 위해서 Donate Key를 얻으시려면 AndroidPIT App Center를 설치해 주세요.</string>
     <string name="message_update_donate_key">Donate Key를 최신 버젼으로 업데이트를 해주세요</string>

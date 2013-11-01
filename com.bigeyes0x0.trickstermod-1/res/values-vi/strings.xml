@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="app_name">Cài đặt hiệu suất</string>
     <string name="credits">"Chân thành cảm ơn 
 - Các lập trình viên phát triển Nhân (kernel) 
 - Các nhà hảo tâm, đặc biệt là diggmc@xda 
@@ -27,7 +28,7 @@
     <string name="set_on_boot_error">Khởi động lại không tốt: hủy cài đặt lúc khởi động</string>
     <string name="bug_report_log_file_creation_error">Log filekhoong thẻ được tạo vì lỗi thẻ nhớ</string>
     <string name="message_config_na">Điều khiển này không sử dụng được</string>
-    <string name="message_install_root_error">Trickster MOD cần quyền root để hoạt động</string>
+    <string name="message_install_root_error">Cài đặt hiệu suất cần quyền root để hoạt động</string>
     <string name="message_select_email_client">Chọn phầm mềm quản lý email</string>
     <string name="message_update_donate_key">Vui lòng cập nhật app bản quyền lên phiên bản mới</string>
     <string name="message_license_androidpit">Vui lòng đăng nhập vào server AndroidPIT để xác nhận</string>
