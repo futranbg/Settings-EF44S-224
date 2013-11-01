@@ -2,10 +2,10 @@
 <resources>
     <string name="app_name">XThemeEngine</string>
     <string name="version_name">beta5</string>
-    <string name="description">"XThemeEngine themes uses a format similar to CM10 themes. XThemeEngine supports theming of resources except those in assets folders (i.e. ringtones, wallpapers) and styles.xml.
+    <string name="description">"Themes uses a format similar to CM10 themes. Which supports theming of resources except those in assets folders (i.e. ringtones, wallpapers) and styles.xml.
 
-Howto/Support: https://plus.google.com/communities/107334160991587538620
-Follow @ruqqq for updates: http://twitter.com/ruqqq
+Howto/Support: https://tekcafe.vn
+Follow Tekcafe.vn for updates: http://https://www.facebook.com/vn.newhope
 
 WARNING: This is a beta app. It comes with no warranty or guarantee!"</string>
 </resources>
