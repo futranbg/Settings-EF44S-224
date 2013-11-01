@@ -25,7 +25,7 @@
         </LinearLayout>
     </FrameLayout>
     <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="?android:dividerHorizontal" android:minHeight="54.0dip" android:showDividers="beginning" android:dividerPadding="0.0dip">
-        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:measureWithLargestChild="true" android:layoutDirection="3" style="?android:attr/buttonBarStyle">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:measureWithLargestChild="true" android:layoutDirection="ltr" style="?android:attr/buttonBarStyle">
             <Button android:textSize="14.0sp" android:layout_gravity="start" android:id="@id/prompt_deny" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="54.0dip" android:text="@string/generic_deny" android:maxLines="2" android:layout_weight="1.0" android:onClick="onDeny" style="?android:attr/buttonBarButtonStyle" />
             <Button android:textSize="14.0sp" android:layout_gravity="end" android:id="@id/prompt_allow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="54.0dip" android:text="@string/generic_grant" android:maxLines="2" android:layout_weight="1.0" android:onClick="onGrant" style="?android:attr/buttonBarButtonStyle" />
         </LinearLayout>
