@@ -15,18 +15,6 @@
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
-        <activity-alias android:icon="@drawable/ic_launcher_nate" android:name="@string/activity_nate_icon" android:enabled="true" android:targetActivity="com.bigeyes0x0.trickstermod.main.ActivityTricksterMod">
-            <intent-filter>
-                <category android:name="android.intent.category.LAUNCHER" />
-                <action android:name="android.intent.action.MAIN" />
-            </intent-filter>
-        </activity-alias>
-        <activity-alias android:icon="@drawable/ic_launcher_bacon" android:name="@string/activity_bacon_icon" android:enabled="false" android:targetActivity="com.bigeyes0x0.trickstermod.main.ActivityTricksterMod">
-            <intent-filter>
-                <category android:name="android.intent.category.LAUNCHER" />
-                <action android:name="android.intent.action.MAIN" />
-            </intent-filter>
-        </activity-alias>
         <activity android:name="com.bigeyes0x0.trickstermod.main.ActivitySysctlEditor" />
         <activity android:name="com.bigeyes0x0.trickstermod.template.SettingScreen$ActivityScreen" />
         <activity android:theme="@*android:style/Theme.Holo.Dialog" android:name="com.bigeyes0x0.trickstermod.main.ActivityGenerals" android:taskAffinity="" android:excludeFromRecents="true">
