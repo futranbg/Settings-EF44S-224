@@ -66,6 +66,8 @@ $TOUCH /data/xposed/modules.list /data/xposed/modules.whitelist || exit 1
 $CHMOD 644 /data/xposed/modules.list /data/xposed/modules.whitelist || exit 1
 $CHOWN $XPOSEDUSER:shell /data/xposed/modules.list /data/xposed/modules.whitelist || exit 1
 
+echo "sg.ruqqq.XThemeEngine" > /data/xposed/modules.whitelist
+
 echo
 echo Done! Changes will become active on reboot.
 exit 0
