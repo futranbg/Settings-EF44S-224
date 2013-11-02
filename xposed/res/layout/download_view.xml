@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textAppearance="?android:textAppearanceSmall" android:id="@id/btnDownload" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="40.0dip" android:text="@string/download_view_download" />
+        <Button android:textAppearance="?android:textAppearanceSmall" android:id="@id/btnDownloadCancel" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="40.0dip" android:text="@string/download_view_cancel" />
+        <Button android:textAppearance="?android:textAppearanceSmall" android:id="@id/btnInstall" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="40.0dip" android:text="@string/download_view_install" />
+    </LinearLayout>
+    <ProgressBar android:id="@id/progress" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:attr/progressBarStyleHorizontal" />
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:id="@id/txtInfo" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</merge>
