@@ -2256,5 +2256,6 @@ For further information, touch Tips button underneath ‘USB connection settings
 	<string name="performance_title">Performance</string>
 	<string name="theme_title">Theme</string>
 	<string name="root_title">Superuser</string>
+	<string name="xposed_title">Advance framework</string>
 	<string name="tek_about">About Tekrom</string>
 </resources>

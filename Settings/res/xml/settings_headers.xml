@@ -24,6 +24,9 @@
 	<header android:icon="@drawable/ic_supersu" android:title="@string/root_title">
        <intent android:targetPackage="eu.chainfire.supersu" android:action="android.intent.action.MAIN" android:targetClass="eu.chainfire.supersu.MainActivity" />
     </header>
+	<header android:icon="@drawable/ic_xposed" android:title="@string/xposed_title">
+       <intent android:targetPackage="de.robv.android.xposed.installer" android:action="android.intent.action.MAIN" android:targetClass="de.robv.android.xposed.installer.WelcomeActivity" />
+    </header>
 	<header android:icon="@drawable/ic_phoneinfo" android:id="@id/about_settings" android:title="@string/tek_about" android:fragment="com.android.settings.DeviceInfoSettings" />
 	<header android:title="@string/header_category_device" />
     <header android:icon="@drawable/ic_settings_sim" android:id="@id/multi_sim_settings" android:title="@string/multi_sim_settings_title">

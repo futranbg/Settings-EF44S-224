@@ -3618,6 +3618,7 @@
 	<public type="string" name="theme_title" id="0x7f0b09d1" />
 	<public type="string" name="tek_about" id="0x7f0b09d2" />
 	<public type="string" name="root_title" id="0x7f0b09d3" />
+	<public type="string" name="xposed_title" id="0x7f0b09d4" />
     <public type="integer" name="maximum_user_dictionary_word_length" id="0x7f0c0000" />
     <public type="dimen" name="device_memory_usage_button_width" id="0x7f0d0000" />
     <public type="dimen" name="device_memory_usage_button_height" id="0x7f0d0001" />

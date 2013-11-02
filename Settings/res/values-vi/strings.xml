@@ -2431,5 +2431,6 @@ Khả năng quản lý phụ thuộc phần mềm trên PC."</string>
 	<string name="header_category_advanced">Cài đặt nâng cao</string>
 	<string name="performance_title">Hiệu năng</string>
 	<string name="theme_title">Cài đặt theme</string>
+	<string name="xposed_title">Framework nâng cao</string>
 	<string name="tek_about">Thông tin Tekrom</string>
 </resources>
